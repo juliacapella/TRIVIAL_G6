@@ -1,5 +1,5 @@
 # TRIVIAL_G6
-#Quoridor
+Quoridor\n
 #Versión 1
 #Cliente-Servidor y Consultas básicas
 - Generada por Júlia  
